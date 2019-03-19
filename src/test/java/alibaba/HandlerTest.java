@@ -13,7 +13,7 @@ public class HandlerTest {
 
     /**
      * 测试邮箱所给案例1
-     * 邮箱给的案例数据有误
+     * 邮箱给的案例数据有误  邮箱1的支出为4986
      */
     @Test
     public void testExample1() {
